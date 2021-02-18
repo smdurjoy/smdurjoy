@@ -1,9 +1,10 @@
 ### Hi there, I'm DurJoy - [smdurjoy][website] 👋
 
-- I am a full stack software developer although I'm still learning 😉
-- I just love javaScript its my favourite programming language 😍
-- React, Node, Express JS 💪
-- The development journey started with PHP, Laravel 🥰
+- I'm Currently working as a full stack web developer.
+- Always ready to take new opportunities and challenges 💪
+  - Express - Laravel 😍
+  - React - jQuery 🥰
+  - MySQL - MongoDB 
 - ⚡  Goal:  To be an awesome programmer 😎
 
 ### Connect with me:
