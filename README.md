@@ -3,7 +3,7 @@
 - I'm currently working as a Junior Software Engineer.
 - Always ready to take new opportunities and challenges 💪
   - Express - Laravel 😍
-  - React - jQuery 🥰
+  - React - Vue - jQuery 🥰
   - MySQL - MongoDB 
 - ⚡  Goal:  To be an awesome programmer 😎
 
@@ -20,5 +20,5 @@
 [website]: https://smdurjoy.com
 [twitter]: https://twitter.com/smdurjoy96
 [linkedin]: https://www.linkedin.com/in/smdurjoy
-[facebook]: https://www.facebook.com/djdurjoy96
+[facebook]: https://www.facebook.com/smdurjoy
 [instagram]: https://www.instagram.com/smdurjoy96
