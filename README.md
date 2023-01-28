@@ -1,6 +1,6 @@
 ### Hi there, I'm DurJoy - [smdurjoy][website] 👋
 
-- I'm currently working as a Junior Software Engineer.
+- I'm currently working as Software Engineer.
 - Always ready to take new opportunities and challenges 💪
   - Express - Laravel 😍
   - React - Vue - jQuery 🥰
