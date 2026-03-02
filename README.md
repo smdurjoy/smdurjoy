@@ -2,7 +2,6 @@
 ## 🎯 About Me
 
 Full stack engineer with 5+ years of experience building scalable web applications and robust APIs.
-Portfolio: 
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?logo=netlify&logoColor=white)](https://smdurjoy.netlify.app)
