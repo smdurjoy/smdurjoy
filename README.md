@@ -3,7 +3,7 @@
 
 Full stack engineer with 5+ years of experience building scalable web applications and robust APIs.
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?logo=netlify&logoColor=white)](https://smdurjoy.netlify.app)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/smdurjoy) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/smdurjoy)
