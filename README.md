@@ -1,33 +1,7 @@
-<div align="center">
-
-# 🚀 Saqlain Mustaq Durjoy
-### **Full Stack Engineer | Backend Enthusiast | Clean Code Advocate**
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://smdurjoy.netlify.app)
-[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smdurjoy.cse@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/smdurjoy)
-
-</div>
-
 ---
-
 ## 🎯 About Me
 
-<div align="center">
-
-**💻 Backend Developer at Heart, Full-Stack by Profession**
-
-</div>
-
-> *"I dream in APIs and think in database queries, but my resume says I'm good at React too. 😅"*
-
-### **Quick Stats:**
-- **🎂 Experience**: 5+ years in the coding wilderness
-- **💼 Current**: Full Stack Engineer @ Sense & Respond Software LLC
-- **🎯 Passion**: Backend architecture & API design
-- **😂 Reality**: Also pretty good at making buttons look nice
-
----
+Full stack engineer with 5+ years of experience building scalable web applications and robust APIs.
 
 ## 🛠️ Tech Stack
 
@@ -48,3 +22,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=smdurjoy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>![](https://nirzak-streak-stats.vercel.app/?user=smdurjoy&theme=dark&hide_border=false)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=smdurjoy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
